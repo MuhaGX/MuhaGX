@@ -4,5 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mhxjjrnc7kbrknmdxhmmuijsg)
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 <br/>
+---
