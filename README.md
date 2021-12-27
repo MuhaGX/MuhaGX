@@ -9,4 +9,4 @@
 ![Spotify recently playe](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width=700)                    
 
 
-<![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilardi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=FFFEFE,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhaGX_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=FFFEFE,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
