@@ -5,7 +5,7 @@
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/MuhaGX/Hello-/issues)
 
 **Languages and Tools:**  
 
