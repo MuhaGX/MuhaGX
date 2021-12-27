@@ -66,9 +66,7 @@
 </p>
 
 ## 📊 My Github Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhagx&label=Profile%20views&color=0e75b6&style=flat" alt="muhagx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhagx" alt="muhagx" /></a> </p>
   <br/>
     <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhaGX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -78,6 +76,7 @@
 
 <br/>
 <br/>
+
 <a href="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhaGX&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 
 <br/>
