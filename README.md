@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhaGX&repo=github-aimbot-script" />
+<a href="https://github.com/MuhaGX/my-scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhaGX&repo=github-my-scripts" />
 </a>
 <a href="https://github.com/MuhaGX/verify-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhaGX&repo=verify-bot" />
