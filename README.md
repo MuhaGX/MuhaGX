@@ -10,5 +10,3 @@
 
 
 ![Spotify recently playe](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width=600)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
