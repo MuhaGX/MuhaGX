@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?MuhaGX=&repo=github-readme-stats)](https://github.com/MuhaGX/verify-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?MuhaGX=&repo=github-verify-bot)](https://github.com/MuhaGX/verify-bot)
 
 
 
