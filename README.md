@@ -1,6 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm MuhaGX!
 
-
+<img src="https://cdn.discordapp.com/attachments/917067639933763584/924983774519910410/Image_about_black_and_white_in_archive_by_.jpg
+" width="1000px">
 **About me**
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
