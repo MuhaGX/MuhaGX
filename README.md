@@ -11,4 +11,4 @@
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width={200})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width={1000})
