@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<a href="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhaGX&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhaGX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
