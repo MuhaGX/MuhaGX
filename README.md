@@ -75,7 +75,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhaGX&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhaGX&theme=reactdark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 <a href="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhaGX&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
