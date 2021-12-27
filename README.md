@@ -5,6 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Now Playing
-![Spotify recently playe](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width=600)
+![Spotify recently playe](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width=1000)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mhxjjrnc7kbrknmdxhmmuijsg&cover_image=true&theme=default&bar_color_cover=true&bar_color=9e9e9e)](https://spotify-github-profile.vercel.app/api/view?uid=mhxjjrnc7kbrknmdxhmmuijsg&redirect=true)
 
