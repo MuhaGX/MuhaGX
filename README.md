@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/MuhaGX/aimbot-script">
+<a href="anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhaGX&repo=github-aimbot-script" />
 </a>
 <a href="https://github.com/MuhaGX/verify-bot">
