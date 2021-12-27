@@ -9,6 +9,6 @@
 
 
 
-![Spotify recently playe](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg=600)
+![Spotify recently playe](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&width=600)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
