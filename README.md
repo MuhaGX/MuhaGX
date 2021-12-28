@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/917067639933763584/924983774519910410/Image_about_black_and_white_in_archive_by_.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MuhaGX</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Indonesia.</h3>
+<h3 align="center">I'm a Developer from Indonesia.</h3>
 
 ## About Me
 
