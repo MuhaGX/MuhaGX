@@ -44,7 +44,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhagx" alt="muhagx" /></a> </p>
 
 ## Now Playing
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&count=7&width=523)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mhxjjrnc7kbrknmdxhmmuijsg&count=7&width=522)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mhxjjrnc7kbrknmdxhmmuijsg&cover_image=true&theme=default&bar_color_cover=true&bar_color=9e9e9e)](https://spotify-github-profile.vercel.app/api/view?uid=mhxjjrnc7kbrknmdxhmmuijsg&redirect=true)             
 
 
