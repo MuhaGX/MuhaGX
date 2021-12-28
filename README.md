@@ -62,14 +62,15 @@
 
 
 ## Connect with me:
+</p>
+
 <p align="left">
-<a href="https://instagram.com/magx.x.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magx.x.x" height="30" width="40" /></a>
-<a href="https://discord.gg/gkxMRwuHAF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gkxMRwuHAF" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/muha_vx" alt="twitter">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
+<a href="https://www.instagram.com/magx.x.x/" alt="instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
-
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&url=https://www.instagram.com/magx.x.x/)
 
 ## Views and Followers
 
