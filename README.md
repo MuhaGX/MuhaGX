@@ -71,12 +71,16 @@
 <a href="https://discord.gg/BJfGqsJ5dh" alt="discord">
         <img src="https://discord-readme-badge.vercel.app/api?id=484663370491101186" /></a>
 
+	
+	
+
+</p>
+
 <a href="https://twitter.com/muha_vx" alt="twitter">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
 <a href="https://www.instagram.com/magx.x.x/" alt="instagram">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
 
 ## Views and Followers
 
