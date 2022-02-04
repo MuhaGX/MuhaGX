@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/917067639933763584/924983774519910410/Image_about_black_and_white_in_archive_by_.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/MuhaGX/MuhaGX/blob/main/bannerr.gif?raw=true" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MuhaGX</h1>
 <h3 align="center">I'm a Developer from Indonesia.</h3>
@@ -85,6 +85,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-<a href="#"><img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/917067639933763584/925412654661656576/ririka.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/MuhaGX/MuhaGX/blob/main/banner.gif?raw=true" height="175px"/></a>
 </p>
 
