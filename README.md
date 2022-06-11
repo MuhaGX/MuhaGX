@@ -1,6 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/MuhaGX/MuhaGX/blob/main/bannerr.gif?raw=true" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MuhaGX</h1>
+<h1 align="center">Hi, I'm MuhaGX</h1>
 <h3 align="center">I'm a Developer from Indonesia.</h3>
 
 ## About Me
@@ -31,11 +29,9 @@
 </div>
  	
 </p>
-
 	
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
 
 ## My Github Stats
 
@@ -45,7 +41,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MuhaGX's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhaGX&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
@@ -57,17 +52,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=MuhaGX&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true" alt="muhagx" /></a> </p>
             
-
 ## Connect with me
 </p>
-
-
 
 <p align="left">
 <a href="https://discord.gg/BJfGqsJ5dh" alt="discord">
         <img src="https://discord-readme-badge.vercel.app/api?id=484663370491101186" /></a>
-
-	
 	
 
 </p>
@@ -82,9 +72,3 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-MuhaGX&color=grey&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/MuhaGX?color=grey&style=flat-square)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-<a href="#"><img width="100%" height="auto" src="https://github.com/MuhaGX/MuhaGX/blob/main/banner.gif?raw=true" height="175px"/></a>
-</p>
-
