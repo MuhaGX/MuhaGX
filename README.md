@@ -5,6 +5,7 @@
 
 - 📫 How to reach me **muhahome0@gmail.com**
 
+	
 ## Languages and Tools:
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
@@ -25,12 +26,19 @@
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MuhaGX&color=060b0e&style=for-the-badge">	
+
 ## My Github Stats
 
   <br/>
     <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhaGX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Github Stats" src="https://github-stats-alpha.vercel.app/api?username=MuhaGX&cc=0D1117&tc=fff&ic=5BCDEC&bc=0D1117" /></a>
     <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MuhaGX's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhaGX&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MuhaGX's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhaGX&theme=react&hide_border=true&bg_color=0D1117" /></a>	
+    <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhaGX&theme=github_dark&utcOffset=8" /></a>
+    <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhaGX&theme=github_dark" /></a>
+    <a href="https://github.com/MuhaGX/github-readme-stats"><img alt="MuhaGX's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhaGX&theme=github_dark" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -39,25 +47,14 @@
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhaGX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![a](https://stats.justsong.cn/api/github?username=MuhaGX)
-
 <br/>
 <br/>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=MuhaGX&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true" alt="muhagx" /></a> </p>
-            
-## Connect with me
 
+[](https://github-stats-alpha.vercel.app/api?username={your-github-username})
 	
-</p>
 
-<a href="https://twitter.com/muha_vx" alt="twitter">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
-<a href="https://www.instagram.com/magx.x.x/" alt="instagram">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-## Views and Followers
-
-![](https://komarev.com/ghpvc/?username=your-github-MuhaGX&color=grey&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/MuhaGX?color=grey&style=flat-square)
+## Memes
+<p align="left">
+<img src="https://camo.githubusercontent.com/a571a3bb3eac93087909861af43b56c9c20d983c2ac6704f9d9821d74ec866bb/68747470733a2f2f72616e646f6d2d6d656d65722e7472696e69622e7265706c2e636f" width="260px"/>
