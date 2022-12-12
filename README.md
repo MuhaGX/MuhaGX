@@ -49,11 +49,12 @@
 
 <br/>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=MuhaGX&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true" alt="muhagx" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=MuhaGX&theme=alduin&column=7&margin-w=15&margin-h=15&no-frame=true" alt="muhagx" /></a> </p>
 
 [](https://github-stats-alpha.vercel.app/api?username={your-github-username})
 	
 
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="muhagx" /></a> </p>
 
 ## Memes
 <p align="left">
