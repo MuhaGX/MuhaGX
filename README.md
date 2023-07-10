@@ -43,7 +43,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="MuhaGX's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhaGX&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    <a href="https://github.com/MuhaGX/github-readme-stats">
+</p>
+
+<p>
+  <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhaGX&theme=github_dark&utcOffset=8" />
     </a>
     <a href="https://github.com/MuhaGX/github-readme-stats">
@@ -53,6 +56,8 @@
         <img alt="MuhaGX's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhaGX&theme=github_dark" />
     </a>
 </p>
+
+
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
