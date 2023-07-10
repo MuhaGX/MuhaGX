@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm MuhaGX</h1>
 <h3 align="center">I'm a Developer from Indonesia.</h3>
 
-## About Me
-
-- 📫 How to reach me: **muhahome0@gmail.com**
-
 ## Languages and Tools:
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
