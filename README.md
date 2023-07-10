@@ -37,7 +37,10 @@
     <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Github Stats" src="https://github-stats-alpha.vercel.app/api?username=MuhaGX&cc=0D1117&tc=fff&ic=5BCDEC&bc=0D1117" />
     </a>
-    <a href="https://github.com/MuhaGX/github-readme-stats">
+</p>
+
+<p>
+ <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
