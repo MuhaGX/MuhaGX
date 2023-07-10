@@ -29,8 +29,7 @@
 
 ## My Github Stats
 
-<br/>
-<p>
+<p align="center">
     <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhaGX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
@@ -39,8 +38,8 @@
     </a>
 </p>
 
-<p>
- <a href="https://github.com/MuhaGX/github-readme-stats">
+<p align="center">
+    <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhaGX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -48,8 +47,8 @@
     </a>
 </p>
 
-<p>
-  <a href="https://github.com/MuhaGX/github-readme-stats">
+<p align="center">
+    <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhaGX&theme=github_dark&utcOffset=8" />
     </a>
     <a href="https://github.com/MuhaGX/github-readme-stats">
@@ -62,7 +61,7 @@
 
 
 <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages are only a metric of the languages in my public code repositories and do not reflect my experience or skill level.
 
 <br/>
 <br/>
@@ -83,9 +82,4 @@
 
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="muhagx" />
-</p>
-
-## Memes
-<p align="left">
-    <img src="https://camo.githubusercontent.com/a571a3bb3eac93087909861af43b56c9c20d983c2ac6704f9d9821d74ec866bb/68747470733a2f2f72616e646f6d2d6d656d65722e7472696e69622e7265706c2e636f" width="260px"/>
 </p>
