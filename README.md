@@ -29,7 +29,7 @@
 
 ## My Github Stats
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/MuhaGX/github-readme-stats">
         <img alt="MuhaGX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhaGX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
